@@ -75,3 +75,10 @@ The API uses the following external packages:
 
 github.com/gorilla/mux for routing HTTP requests.
 github.com/mattn/go-sqlite3 for interacting with the SQLite database.
+
+
+User-Management-app
+
+Start the development server
+
+npm run dev
